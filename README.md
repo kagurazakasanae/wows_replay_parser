@@ -1,5 +1,5 @@
 # wows_replay_parser
-A tool that lets you extract information from World of Warships(WoWS) replay file
+**A tool that lets you extract information from World of Warships(WoWS) replay file**
 **SUPPORT TO VERSION 0.8.10.0**
 **Information that you can extract from replay**
 + Player list(clan tag, player nickname, player's vechile... etc)
